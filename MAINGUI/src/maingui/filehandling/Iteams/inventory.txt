@@ -1,0 +1,10 @@
+Coke,20,120,100,20,1
+Laption,2010,230,100,2
+Dalda Oil,250,2500,2000,3
+Dalda Ghee,100,150,100,4
+Shan Masala,150,150,100,5
+Biscuit,158,150,100,6
+Surf Excel,200,230,200,7
+Ice Cream,500,510,500,8
+Knorr,140,100,90,9
+Ben & Jerry's,100,90,50,10
